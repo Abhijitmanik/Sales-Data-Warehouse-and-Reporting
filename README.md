@@ -75,7 +75,9 @@ The **Sales Data Warehouse and Reporting System** is a comprehensive project des
 
 Contributions are welcome! If you have suggestions for improvements or additional features, please open an issue or submit a pull request.
 
-
+## Acknowledgments
+- PostgreSQL for being an excellent relational database management system.
+- The data modeling and analysis concepts from various data warehousing resources.
 
 
 
